@@ -1,5 +1,5 @@
 # aws-cli-mfa-script-
-Use an MFA token to authenticate access to AWS resources through the AWS CLI
+Use an MFA token authenticate access to AWS resources through the AWS CLI
 
 Script to fetch an MFA token and use it temporary aws access credentials.
 
